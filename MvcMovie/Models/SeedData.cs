@@ -25,7 +25,7 @@ public static class SeedData
                     Title = "Salaar",
                     ReleaseDate = DateTime.Parse("2023-12-22"),
                     Genre = "Action Thriller",
-                    Rating = "R",
+                    Rating = "5",
                     Price = 12.99M
                 },
                 new Movie
@@ -33,7 +33,7 @@ public static class SeedData
                     Title = "Hanuman",
                     ReleaseDate = DateTime.Parse("2023-01-12"),
                     Genre = "Adventure",
-                    Rating = "R",
+                    Rating = "5",
                     Price = 10.99M
                 },
                 new Movie
@@ -41,7 +41,7 @@ public static class SeedData
                     Title = "Conjuring",
                     ReleaseDate = DateTime.Parse("2013-07-19"),
                     Genre = "Horror",
-                    Rating = "R",
+                    Rating = "5",
                     Price = 8.99M
                 },
                 new Movie
@@ -49,7 +49,7 @@ public static class SeedData
                     Title = "Infinity Pool",
                     ReleaseDate = DateTime.Parse("2023-01-27"),
                     Genre = "Sci-Fi",
-                    Rating = "R",
+                    Rating = "5",
                     Price = 5.99M
                 },
                 new Movie
@@ -57,7 +57,7 @@ public static class SeedData
                     Title = "Wednesday",
                     ReleaseDate = DateTime.Parse("2023-02-24"),
                     Genre = "Thriller",
-                    Rating = "R",
+                    Rating = "5",
                     Price = 8.99M
                 }
             );
