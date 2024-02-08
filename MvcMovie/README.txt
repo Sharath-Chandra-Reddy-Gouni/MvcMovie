@@ -38,7 +38,11 @@ Then added the Rating field for each movie added in the Seed.cs. Then added the 
 has been added to the page and I can even edit the rating field. 
 Then added validation rules to the movie model. Some of the validation rules are "The field title must be a minimum length of 3 and maximum length of 60".
 "The field rating must match the regular expression '^[A-Z]+[a-zA-Z0-9""'\s-]*$' etc. So that the fields should not be empty and need to be exact datatype
-mentioned
+mentioned.
+
+
+2024-02-08
+1330
 And the final application viewing movies with the title, release date, genre, price and rating is been successfully created.
 Then I have examined the details and delete method in the application. I have looked at the delete code which is placed in the MovieController.cs class.
 
