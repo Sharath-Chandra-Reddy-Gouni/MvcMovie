@@ -40,3 +40,7 @@ Then added validation rules to the movie model. Some of the validation rules are
 "The field rating must match the regular expression '^[A-Z]+[a-zA-Z0-9""'\s-]*$' etc. So that the fields should not be empty and need to be exact datatype
 mentioned
 And the final application viewing movies with the title, release date, genre, price and rating is been successfully created.
+
+
+It was quite interesting to learn the tutorial to create a web application. I have faced lot of troubles while doing this but I have solved it using various
+resources. This tutorial will be helping me to create a new web application in the future.
